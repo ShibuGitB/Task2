@@ -1,2 +1,2 @@
 # Task2
-Deep - Learning Tasks 
+Deep-Learning Tasks 
