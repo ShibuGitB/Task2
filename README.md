@@ -1,1 +1,1 @@
-Face Detection Image/Video-Deep Learning
+Image/Video Face Detection-Deep Learning
